@@ -1,1 +1,2 @@
-# trajectory-data-project
+# MATsim – As a Trajectory Data Generation Tool
+Trajectory Computing largely relies on real-world tracking data (usually from taxi, public transport, animals, or very few individuals). TUM colleagues have developed a powerful mobility simulator (MATsim) which might be useful to generate datasets with specific properties for trajectory computing. Your task: Implement MATsim scenarios to illustrate trajectory classification and trajectory clustering. The trajectory computing algorithms can come from our work (e.g., libtrajcomp) or from colleagues (e.g., movetk). If this is well-done, it can become a test-suite for test-driven development of trajectory computing algorithm
